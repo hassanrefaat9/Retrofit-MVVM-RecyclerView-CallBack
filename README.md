@@ -1,4 +1,4 @@
 # Retrofit-MVVM-RecyclerView-CallBack
-Retrofit + MVVM + RecyclerView + CallBack
-i made this project using Retrofit + MVVM + RecyclerView + CallBack 
-this project get data from api and view it in   RecyclerView 
+This is a simple application that displays data brought from api
+I used in its implementation Retrofit-MVVM-RecyclerView-CallBack
+
